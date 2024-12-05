@@ -2,7 +2,7 @@
 
 ## LLM?
 
-![alt text](LLM1-2.png)
+![alt text](LLM1.png)
 
 ### LLM Models
 
