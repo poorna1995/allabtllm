@@ -41,7 +41,7 @@
 | **Med-PaLM**   | PaLM   | 540B          | 2022    | ×           | Decoder-Only | 780B    | HealthSearchQA, MedicationQA, LiveQA                         | **Transformer Decoder**: PaLM specialized in medical QA tasks, fine-tuned with healthcare-specific datasets. |
 | **Med-PaLM 2** | PaLM 2 | -             | 2023    | ×           | Decoder-Only | -       | MedQA, MedMC                                                 | **Transformer Decoder**: Next-gen medical language model based on PaLM 2, fine-tuned for clinical data.      |
 
-![alt text](image-2.png)
+![alt text](image.png)
 
 #### Evalutaion metric
 
@@ -88,8 +88,6 @@
 | Alpaca-CoT                    | -                                                                                               | -                                                                               | [Link](#)                                                                   | [Link](#)                                                                |
 
 ### LLM MODEL FAMILY
-
-![alt text](image.png)
 
 <!-- ## LLM Categories
 
